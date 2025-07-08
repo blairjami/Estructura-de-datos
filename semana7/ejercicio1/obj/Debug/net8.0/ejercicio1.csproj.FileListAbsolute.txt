@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana7\ejercicio1\bin\Debug\net8.0\ejercicio1.exe
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana7\ejercicio1\bin\Debug\net8.0\ejercicio1.deps.json
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana7\ejercicio1\bin\Debug\net8.0\ejercicio1.runtimeconfig.json
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana7\ejercicio1\bin\Debug\net8.0\ejercicio1.dll
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana7\ejercicio1\bin\Debug\net8.0\ejercicio1.pdb
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana7\ejercicio1\obj\Debug\net8.0\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana7\ejercicio1\obj\Debug\net8.0\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana7\ejercicio1\obj\Debug\net8.0\ejercicio1.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana7\ejercicio1\obj\Debug\net8.0\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana7\ejercicio1\obj\Debug\net8.0\ejercicio1.sourcelink.json
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana7\ejercicio1\obj\Debug\net8.0\ejercicio1.dll
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana7\ejercicio1\obj\Debug\net8.0\refint\ejercicio1.dll
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana7\ejercicio1\obj\Debug\net8.0\ejercicio1.pdb
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana7\ejercicio1\obj\Debug\net8.0\ejercicio1.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana7\ejercicio1\obj\Debug\net8.0\ref\ejercicio1.dll

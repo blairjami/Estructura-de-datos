@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana11\obj\Debug\net8.0\semana11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana11\obj\Debug\net8.0\semana11.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana11\obj\Debug\net8.0\semana11.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana11\obj\Debug\net8.0\semana11.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana11\obj\Debug\net8.0\semana11.sourcelink.json
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana11\bin\Debug\net8.0\semana11.exe
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana11\bin\Debug\net8.0\semana11.deps.json
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana11\bin\Debug\net8.0\semana11.runtimeconfig.json
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana11\bin\Debug\net8.0\semana11.dll
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana11\bin\Debug\net8.0\semana11.pdb
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana11\obj\Debug\net8.0\semana11.dll
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana11\obj\Debug\net8.0\refint\semana11.dll
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana11\obj\Debug\net8.0\semana11.pdb
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana11\obj\Debug\net8.0\semana11.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Documentos\GitHub\Estructura-de-datos\semana11\obj\Debug\net8.0\ref\semana11.dll
